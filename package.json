@@ -1,0 +1,5 @@
+{
+  "name": "webecommers",
+  "private": true,
+  "workspaces": ["apps/admin", "apps/storefront", "packages/ui", "packages/config"]
+}
